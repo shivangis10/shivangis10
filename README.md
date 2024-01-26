@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Shivangi </h1> 
 <h2 align="center"> Data Analyst | Data Scientist | Data Vizualization </h2>
-<h2 align="center"> My Portfolio </h2>
+<h2 align="center"><a href="https://drive.google.com/file/d/17M_RbFr8Lt_7AJVrKmiobZbAWahrihLG/view?usp=sharing" target="_blank">My Resume</a></h2>
 <h4 align="center"> I'm Shivangi, I recently graduated from Northwestern University as a Master of Science in Information Technology. I've been a Data Enthusiast for over 5 years and I got the opportunities to explore the differnt fields in data like data analysis, data science, data vizualization and now Generative AI. </h4>
    
 
@@ -26,7 +26,9 @@
    <img src="https://img.icons8.com/ios-glyphs/60/000000/jira.png" alt="jira" width="60" height="60" />
 </p>
 
-<h3>Let's Connect:</h3>
+<h3>Certifications:</h3>
+<h4> <a href="https://www.cloudskillsboost.google/public_profiles/dca7c18e-f1a4-435e-91bd-d2791944d494/badges/6587541">Google Certification for Introduction to Generative AI</a></h4>
+<h4> <a href="https://www.coursera.org/account/accomplishments/professional-cert/N8VZ6WEZV8CH?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof">Google Certification by Coursera for Google Business Intelligence</a></h4>
 
-<p><a href="https://www.linkedin.com/in/shivangisharma10/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin profile" height="auto" width="30"/></a>
-</p>
+<h3>Let's Connect:</h3>
+<p><a align="center" href="https://www.linkedin.com/in/shivangisharma10/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin profile" height="auto" width="30"/></a></p>
