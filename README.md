@@ -15,11 +15,15 @@
 <h3>Languages & Tools I Use:</h3>
 <p>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="python" width="60" height="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="pg-sql" width="60" height="60"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
-   <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+   <img src="https://img.icons8.com/ios/50/tableau-software.png" alt="tableau-software" alt="tableau" width="60" height="60"/>
+   <img src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi" alt="powerbi" width="60" height="60"/>
+   <img src="https://img.icons8.com/color/48/ms-excel.png" alt="ms-excel" width="60" height="60"/>
+   <img src="https://img.icons8.com/cotton/64/artificial-intelligence.png" alt="ml/ai" width="60" height="60"/>
+   <img src="https://img.icons8.com/ios-glyphs/60/000000/jira.png" alt="jira" width="60" height="60" />
 </p>
 
 <h3>Let's Connect:</h3>
