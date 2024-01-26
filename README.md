@@ -1,16 +1,15 @@
 <h1 align="center">👋 Hi, I’m Shivangi </h1> 
 <h2 align="center"> Data Analyst | Data Scientist | Data Vizualization </h2>
 <h2 align="center"><a href="https://drive.google.com/file/d/17M_RbFr8Lt_7AJVrKmiobZbAWahrihLG/view?usp=sharing" target="_blank">My Resume</a></h2>
-<h4 align="center"> I'm Shivangi, I recently graduated from Northwestern University as a Master of Science in Information Technology. I've been a Data Enthusiast for over 5 years and I got the opportunities to explore the differnt fields in data like data analysis, data science, data vizualization and now Generative AI. </h4>
-   
+<h4 align="center"> I'm Shivangi. I recently graduated from Northwestern University with a Master of Science in Information Technology. I've been a data enthusiast for over 5 years and have had opportunities to explore different fields in data, including data analysis, data science, data visualization, and now Generative AI. </h4>   
 
-➢ I've extensively worked with R, Python, SQL, PowerBI, Tableau, Excel, AWS Cloud, IOT, automation as well as with electronics sensors and real-time data.<br>
-➢ I have expertise in analyzing the data for trends and patterns and develope ML models like smart Alert generatoes, time-series predictive models, anomly detection and many complex dashboards and reports.<br>
-➢ I lead teams of big data engineers, software developers and IOT enginers for the development of Energy Management System.<br>
-➢ I managed the whole project from end to end from collecting data, developing analytical reports, providing AI based solution and developing custom based front-end-applications.<br>
-➢ I thrive in deadline-oriented environments, good at adapting to new tools and data and motivated by working on projects that have impacts in real-life.<br>
+
+➢ I've extensively worked with R, Python, SQL, PowerBI, Tableau, Excel, AWS Cloud, IoT, automation, as well as with electronic sensors and real-time data.<br>
+➢ I have expertise in analyzing data for trends and patterns and developing ML models like smart alert generators, time-series predictive models, anomaly detection, and many complex dashboards and reports.<br>
+➢ I led teams of big data engineers, software developers, and IoT engineers for the development of an Energy Management System.<br>
+➢ I managed the whole project from end to end, including collecting data, developing analytical reports, providing AI-based solutions, and developing custom front-end applications.<br>
+➢ I thrive in deadline-oriented environments, am good at adapting to new tools and data, and am motivated by working on projects that have impacts in real life.<br>
  
-
 
 <h3>Languages & Tools I Use:</h3>
 <p>
