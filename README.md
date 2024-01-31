@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Shivangi </h1> 
 <h2 align="center"> Data Analyst | Data Scientist | Data Vizualization </h2>
-<h2 align="center"><a href="https://drive.google.com/file/d/17M_RbFr8Lt_7AJVrKmiobZbAWahrihLG/view?usp=sharing" target="_blank">My Resume</a></h2>
+<h2 align="center">Portfolio</h2>
 <h4 align="center"> I'm Shivangi. I recently graduated from Northwestern University with a Master of Science in Information Technology. I've been a data enthusiast for over 5 years and have had opportunities to explore different fields in data, including data analysis, data science, data visualization, and now Generative AI. </h4>   
 
 
