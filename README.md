@@ -8,9 +8,8 @@
 ➢ I have expertise in analyzing data for trends and patterns and developing ML models like smart alert generators, time-series predictive models, anomaly detection, and many complex dashboards and reports.<br>
 ➢ I led teams of big data engineers, software developers, and IoT engineers for the development of an Energy Management System.<br>
 ➢ I managed the whole project from end to end, including collecting data, developing analytical reports, providing AI-based solutions, and developing custom front-end applications.<br>
-➢ I thrive in deadline-oriented environments, am good at adapting to new tools and data, and am motivated by working on projects that have impacts in real life.
-➢ I have experience working for different industries incuding but not limited to public health and economics, auto-insurance claims, automotive industry, electrical and electronics industry.
-<br>
+➢ I thrive in deadline-oriented environments, am good at adapting to new tools and data, and am motivated by working on projects that have impacts in real life.<br>
+➢ I have experience working for different industries incuding but not limited to public health and economics, auto-insurance claims, automotive industry, electrical and electronics industry.<br>
  
 
 <h3>Languages & Tools I Use:</h3>
