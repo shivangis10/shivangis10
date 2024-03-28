@@ -1,14 +1,16 @@
 <h1 align="center">👋 Hi, I’m Shivangi </h1> 
 <h2 align="center"> Data Analyst | Data Scientist | Data Vizualization </h2>
 <h2 align="center">Portfolio</h2>
-<h4 align="center"> I'm Shivangi. I recently graduated from Northwestern University with a Master of Science in Information Technology. I've been a data enthusiast for over 5 years and have had opportunities to explore different fields in data, including data analysis, data science, data visualization, and now Generative AI. </h4>   
+<h4 align="center"> I'm a masters graduate from Northwestern University majored in Master of Science in Information Technology. I've been a data enthusiast for over 5 years and have had opportunities to explore different fields in the domains of data, including data analysis, data science, data visualization, and now Generative AI. </h4>   
 
 
 ➢ I've extensively worked with R, Python, SQL, PowerBI, Tableau, Excel, AWS Cloud, IoT, automation, as well as with electronic sensors and real-time data.<br>
 ➢ I have expertise in analyzing data for trends and patterns and developing ML models like smart alert generators, time-series predictive models, anomaly detection, and many complex dashboards and reports.<br>
 ➢ I led teams of big data engineers, software developers, and IoT engineers for the development of an Energy Management System.<br>
 ➢ I managed the whole project from end to end, including collecting data, developing analytical reports, providing AI-based solutions, and developing custom front-end applications.<br>
-➢ I thrive in deadline-oriented environments, am good at adapting to new tools and data, and am motivated by working on projects that have impacts in real life.<br>
+➢ I thrive in deadline-oriented environments, am good at adapting to new tools and data, and am motivated by working on projects that have impacts in real life.
+➢ I have experience working for different industries incuding but not limited to public health and economics, auto-insurance claims, automotive industry, electrical and electronics industry.
+<br>
  
 
 <h3>Languages & Tools I Use:</h3>
